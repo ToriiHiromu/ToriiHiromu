@@ -5,5 +5,5 @@ int main(void){
  printf("文字を入力してください。");
  scanf("%c",&num);
  printf("入力された文字は：%c\n",num);
- return 0
+ return 0;
 }
